@@ -8,7 +8,7 @@ This is a small application created to learn microservice architecture: Docker, 
 I started by following the YouTube tutorial on freeCodeCamp.org channel, then builded up on it, adding more integrations. 
 
 
-![Architecture diagram](microservices-architecture.png "Architecture diagram")
+![Architecture diagram](microservices-architecture.jpeg "Architecture diagram")
 
 
 ### Requirements
