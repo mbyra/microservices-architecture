@@ -1,5 +1,0 @@
-curl -X POST http://mycrazymp3converter.com/login -u mbyra.testing@gmail.com:Admin123
-
-curl -X POST -F 'file=@./test.mp4' -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1ieXJhLnRlc3RpbmdAZ21haWwuY29tIiwiZXhwIjoxNjY5NjYxNDAzLCJpYXQiOjE2Njk1NzUwMDMsImFkbWluIjp0cnVlfQ.J4kInHxl3xUGRJa_4fZD5qsVN6Jy2vME3-nquE2gxxw' http://mycrazymp3converter.com/upload
-
-mongofiles --db=mp3s get_id --local=test.mp3 '{"$oid": "63839fd9aff37715eeaa27db"}'
